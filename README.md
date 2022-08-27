@@ -21,4 +21,4 @@
 - ☑ ️순수 JDBC
 - ☑ ️스프링 통합 테스트
 - ☑ 스프링 JdbcTemplate
-- ☑ JPA
+- ☑ 스프링 데이터 JPA
